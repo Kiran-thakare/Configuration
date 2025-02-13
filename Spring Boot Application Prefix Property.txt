@@ -1,0 +1,11 @@
+spring.mvc.view.prefix=/WEB-INF/Jsp/
+spring.mvc.view.suffix=.jsp
+
+
+Depandancy....
+
+<dependency>
+    <groupId>org.apache.tomcat.embed</groupId>
+    <artifactId>tomcat-embed-jasper</artifactId>
+    <scope>provided</scope>
+</dependency>
